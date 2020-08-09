@@ -180,3 +180,6 @@ function validateForm(pageName='')
     } 
   }   
 }
+
+============================INPUT form============================
+onkeypress="return onlyNumbers('number');"
